@@ -10,7 +10,7 @@ Do not remove the back-link in this web template
 @import url('animate.css');
 
 rounded {
-	border-radius:.25rem !important;
+	border-radius:0rem !important;
 }
 
 body {
